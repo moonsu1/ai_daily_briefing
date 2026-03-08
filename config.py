@@ -22,7 +22,6 @@ ARXIV_KEYWORD_GROUPS = {
             "RLHF language model",
         ],
         "perspective": (
-            "삼성리서치 Agent for Device 팀 파트1(Agent System) 관점에서, "
             "이 논문이 Planning·Reasoning 오케스트레이터 모델 학습(프리트레이닝/파인튜닝)에 "
             "어떻게 기여할 수 있는지 설명해주세요."
         ),
@@ -39,7 +38,6 @@ ARXIV_KEYWORD_GROUPS = {
             "multimodal agent grounding",
         ],
         "perspective": (
-            "삼성리서치 Agent for Device 팀 파트2(Web Agent) 관점에서, "
             "이 논문이 브라우저 조작 에이전트의 VLM 기반 화면 이해·클릭 좌표 계산·Action Policy 개선에 "
             "어떻게 기여할 수 있는지 설명해주세요."
         ),
@@ -55,7 +53,6 @@ ARXIV_KEYWORD_GROUPS = {
             "code generation UI component",
         ],
         "perspective": (
-            "삼성리서치 Agent for Device 팀 파트3(Generative UI) 관점에서, "
             "이 논문이 사용자 의도 기반 실시간 UI 생성 기술에 "
             "어떻게 기여할 수 있는지 설명해주세요."
         ),
