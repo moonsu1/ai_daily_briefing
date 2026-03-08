@@ -1,7 +1,7 @@
 """
 [TA/Research 역할] Paper Agent
 - arxiv에서 5개 그룹별 최신 논문을 수집합니다
-- 각 논문의 초록을 LLM으로 요약합니다 (삼성리서치 파트별 관점)
+- 각 논문의 초록을 LLM으로 요약합니다 
 """
 
 from tools.arxiv_tool import fetch_all_groups
